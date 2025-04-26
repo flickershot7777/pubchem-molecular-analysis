@@ -1,6 +1,6 @@
 # YOU check it out on google collob
-[[https://github.com/flickershot7777/pubchem-molecular-analysis.git](https://colab.research.google.com/drive/1fJBgyyWN-vU7hr0BrpeFVq4KydbS0s-q?usp=sharing)](https://colab.research.google.com/drive/1fJBgyyWN-vU7hr0BrpeFVq4KydbS0s-q?usp=sharing)
 
+https://colab.research.google.com/drive/1fJBgyyWN-vU7hr0BrpeFVq4KydbS0s-q?usp=sharing
 # PubChem Molecular Properties Analysis
 
 This repository contains a Jupyter Notebook that analyzes and visualizes molecular properties of selected drug-like compounds obtained from [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
